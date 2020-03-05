@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+.name {
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 50px;
+}
+.watersandwich {
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  padding: 30px;
+}
+
+nav ul {
+  text-align: center;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+  height: 95%;
+}
+
+.rickroll {
+  background-color: black;
+}
